@@ -24,31 +24,5 @@ console.log(undefined < 0);
 console.log("2" === 2);
 
 
-
-
-
-
-
-// node 01_basics/04_Comparison.js
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Terminal Command
 // node 01_basics/04_Comparison.js
