@@ -26,4 +26,6 @@ Prefer not to use var
 because of issue in block scope and functional scope
 */
 
+
+// Terminal Command
 // node 01_basics/01_variables.js

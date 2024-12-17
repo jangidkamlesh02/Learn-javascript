@@ -23,3 +23,7 @@ let state;
 
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
+
+
+// Terminal Command
+// node 01_basics/02_Datatypes.js
